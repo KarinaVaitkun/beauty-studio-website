@@ -113,7 +113,7 @@ will-change: transform;
     display: inline-block;
     margin-top: 20px;
     padding: 14px 28px;
-    background-color: #76543f;
+    background-color: #8B6B58;
     color: white;
     text-decoration: none;
     border-radius: 6px;
@@ -289,7 +289,7 @@ nav {
     padding: 15px;
     border: none;
     border-radius: 10px;
-    background-color: #76543f;
+    background-color: #8B6B58;
     color: white;
     font: inherit;
     cursor: pointer;
@@ -329,7 +329,7 @@ nav {
 }
 
 .social-links a {
-    color: #665044;
+    color: #6F5546;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
