@@ -113,7 +113,7 @@ will-change: transform;
     display: inline-block;
     margin-top: 20px;
     padding: 14px 28px;
-    background-color: #a98772;
+    background-color: #76543f;
     color: white;
     text-decoration: none;
     border-radius: 6px;
@@ -289,7 +289,7 @@ nav {
     padding: 15px;
     border: none;
     border-radius: 10px;
-    background-color: #b9957a;
+    background-color: #76543f;
     color: white;
     font: inherit;
     cursor: pointer;
@@ -297,7 +297,7 @@ nav {
 }
 
 .contact-form button:hover {
-    background-color: #98765f;
+    background-color: #60432f;
 }
 
 /* Kontaktų informacija */
@@ -329,7 +329,7 @@ nav {
 }
 
 .social-links a {
-    color: #98765f;
+    color: #665044;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
