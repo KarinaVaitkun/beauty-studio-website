@@ -938,3 +938,9 @@ header nav.open {
        padding: 40px 20px;
    }
 }
+
+@media (max-width: 600px) {
+ .comparison-label {
+   display: none;
+ }
+}
